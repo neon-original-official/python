@@ -6,6 +6,7 @@
     </head>
     <body>
       <center><p>GITHUB FORM</p></center>
+      <center><form method="POST" action="https://github.com/github/post"><input name="xml"><input type="submit"></form></center>
     </body>
   </html>
   </document>
